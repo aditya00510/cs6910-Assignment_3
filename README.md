@@ -24,6 +24,6 @@ The wandb report link is:
 5. Question 6
     1.
     2. 
-    3.
+    3. Link for the .ipynb file: https://colab.research.google.com/drive/1DHQADAC7QkNGKgYKxIaewqxhpa-sggNN?usp=sharing 
 
 **NOTE:** The code pushed from the system of CS20M009 is visible as "commited by username unknown".
